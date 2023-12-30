@@ -4,6 +4,7 @@ import GithubLink from "@/components/github-link";
 import AuthorLink from "@/components/author-link";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://zksytmkn.github.io"),
   title: "Tree to Image",
   description: "Tree to Image",
   openGraph: {
